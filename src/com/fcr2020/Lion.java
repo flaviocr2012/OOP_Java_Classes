@@ -7,6 +7,5 @@ public class Lion implements Animal {
         System.out.println("I'm a lion roaring");
 
 
-
     }
 }
